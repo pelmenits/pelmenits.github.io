@@ -1,0 +1,262 @@
+.body {
+  background: #E5E5E5;
+  width:100%;
+  }
+.rectangle_39{
+  position: absolute;
+  width: 1366px;
+  height: 92.51px;
+  left: 0px;
+  top: 0px;
+  background: #FFFFFF;
+}
+.ripped_6 {
+  position: absolute;
+  left: -0.07%;
+  right: 0%;
+  top: 0%;
+  bottom: 96.71%;
+
+  background: #FFFFFF;
+}
+.ripped_6_7 {
+  position: absolute;
+  width: 1366px;
+  height: 55px;
+  left: 1366px;
+  top: 1238px;
+
+  transform: rotate(-180deg);
+}
+.Sparkle_Video_1 {
+  position: absolute;
+  width: 100%;
+  height: 722px;
+  left: 0px;
+  top: 105px;
+}
+.Vector {
+  position: absolute;
+  width: 86px;
+  height: 83px;
+  left: 640px;
+  top: 366px;
+}
+.text {
+  position: absolute;
+  width: 644px;
+  height: 114px;
+  left: 364px;
+  top: 919px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #2F4858;
+  }
+.Zanda_1{
+  position: absolute;
+  width: 328px;
+  height: 355px;
+  left: 0px;
+  top: 1197px;
+  }
+.Sibilla_4 {
+  position: absolute;
+  width: 334px;
+  height: 364px;
+  left: 328px;
+  top: 1202px;
+    }
+.Brinuma_meita-15 {
+  position: absolute;
+  width: 298px;
+  height: 180px;
+  left: 662px;
+  top:1202px;
+}
+.Alina_1_1 {
+  position: absolute;
+  width: 298px;
+  height: 184px;
+  left: 662px;
+  top: 1382px;
+}
+.Anda_2_1{
+  position: absolute;
+  width: 406px;
+  height: 383px;
+  left: 960px;
+  top:1183;
+}
+.text2 {
+  position: absolute;
+  width: 394px;
+  height: 29px;
+  left: 220px;
+  top: 1731px;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #2F4858;
+  white-space: nowrap;
+}
+.text3 {
+
+  position: absolute;
+  width: 233px;
+  height: 50px;
+  left: 300px;
+  top: 1810px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  white-space: nowrap;
+  color: black;
+}
+.text4 {
+  position: absolute;
+  width: 500px;
+  height: 29px;
+  left: 698px;
+  top: 1731px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  white-space: nowrap;
+  color: #2F4858;
+}
+.text5 {
+  position: absolute;
+  width: 233px;
+  height: 50px;
+  left: 832px;
+  top: 1810px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.text6 {
+  position: absolute;
+  width: 819px;
+  height: 48px;
+  left: 274px;
+  top: 2010px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 44px;
+  text-align: center;
+
+  color: #2F4858;
+}
+.rectangle_33 {
+  position: absolute;
+  width: 296px;
+  height: 43px;
+  left: 377px;
+  top: 2113px;
+
+  background: rgba(196, 196, 196, 0.4);
+  border-radius: 6px;
+}
+.text7 {
+  position: absolute;
+  width: 270px;
+  height: 20px;
+  left: 389px;
+  top: 2126px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.015em;
+
+  color: #2F4858;
+}
+.vards_uzvards {
+  position: absolute;
+  width: 296px;
+  height: 43px;
+  left: 377px;
+  top: 2113px;
+
+  background: rgba(196, 196, 196, 0.4);
+  border-radius: 6px;
+}
+.dati {
+  position: absolute;
+  width: 612px;
+  height: 25px;
+  left: 377px;
+  top: 2476px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #2F4858;
+
+
+}
+.footer-text_1 {
+  position: absolute;
+  width: 394px;
+  height: 29px;
+  left: 486px;
+  top: 2927px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #2F4858;
+}
+.Union {
+  width: 100%;
+  height: 533.32px;
+  background: #FFCB66;
+}
+.Rectangle_36 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+
+  background: #2F4858;
+
+}
